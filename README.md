@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JGPMusic
+- 👋 Hi, I’m @JGPDev
 - 👀 I’m interested in web development, bug hunting.
 - 🌱 I’m currently learning C++ and Cybersecurity.
 - 💞️ I’m looking to collaborate on small scale project to start developing my problem solving skills.
